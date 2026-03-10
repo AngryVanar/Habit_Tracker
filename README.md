@@ -18,9 +18,9 @@ A modern, visually appealing React-based application for tracking, analyzing, an
 
 <div align="center">
   <img src="https://github.com/AngryVanar/Habit_Tracker/blob/main/Screenshot%202025-09-26%20133722.png" alt="Dashboard" width="400"/>
-  <img src="https://github.com/aditya8950958/habit-tracker-frontend/blob/main/Screenshot%202025-09-26%20133722.png" alt="Analytics" width="400"/>
-  <img src="https://github.com/aditya8950958/habit-tracker-frontend/blob/main/Screenshot%202025-09-26%20133756.png" alt="Templates" width="400"/>
-  <img src="https://github.com/aditya8950958/habit-tracker-frontend/blob/main/Screenshot%202025-09-26%20133809.png" alt="Progress" width="400"/>
+  <img src="https://github.com/AngryVanar/Habit_Tracker/blob/main/Screenshot%202025-09-26%20133732.png" alt="Analytics" width="400"/>
+  <img src="https://github.com/AngryVanar/Habit_Tracker/blob/main/Screenshot%202025-09-26%20133747.png" alt="Templates" width="400"/>
+  <img src="https://github.com/AngryVanar/Habit_Tracker/blob/main/Screenshot%202025-09-26%20133809.png" alt="Progress" width="400"/>
 </div>
 
 ## How It Works
